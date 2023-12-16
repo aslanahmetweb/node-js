@@ -1,0 +1,12 @@
+{
+  "name": "joke-generator",
+  "version": "1.0.0",
+  "description": "A simple random joke generator server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
